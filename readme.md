@@ -1,5 +1,9 @@
 # Curso de Closures y Scope en JavaScript
 
+## Mis Cursos en Platzi 👉 [Certificados](https://drive.google.com/drive/folders/1SNu_BcXoBeMUwQuw-CO2qc6QWhHWv_cL)
+
+## Clases:
+
 - Clase 1: Introduccion
 - Clase 2: [Qué es el Scope y cómo funciona el Global Scope](#Qué-es-el-Scope-y-cómo-funciona-el-Global-Scope)
 - Clase 3: [Local Scope](#Local-Scope)
